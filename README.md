@@ -1,21 +1,24 @@
+# 🚨中国（包括港澳台）用户通知
+GumoOS在你所在的国家或地区将暂停下载通道并且放缓更新时间，具体恢复时间请等待官方通知。
+
+# Gumo System New Function
+We add some function in new version as follows⬇️⬇️
+
+### 1.Psychological Help: 
+This can help people who are in a low mood, it can effectively prevent the occurrence of suicide.
+
+### 2.Choose Your Country or Region:
+This can prevent you from accessing the wrong language version.
+
 # English Update Log
-1.Fixed the issue of time offset.
+1.We added a new application.
 
-2.Fixed the font offset issue in the AI settings interface.
+2.We added “Choose your country or region”.
 
-3.Fixed the misalignment issue of the AI icon.
+3.We fixed “Version Number is wrong” problem.
 
-4.Fixed some words in AI setting the first step. 
+4.Some text has been modified.
 
-5.Deleted some slides.
+5.We fixed “Some text is wrong” problem.
 
-6.Fixed Gumo Intelligence(in Setting App) fonts used the wrong one problem.
 
-# 国行版更新日志 Chinese Version Update Log
-1.修复了时间显示位置偏移的问题。
-
-2.在用前警告里优化了一些内容。
-
-3.修复了AI图标显示错误的问题。
-
-4.删除了某些幻灯片
