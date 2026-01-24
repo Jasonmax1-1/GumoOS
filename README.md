@@ -1,5 +1,5 @@
 # 🚨中国（包括港澳台）用户通知
-GumoOS在你所在的国家或地区将暂停下载通道并且放缓更新时间，具体恢复时间请等待官方通知。
+GumoOS在你所在的国家或地区已恢复下载通道
 
 # Gumo System New Function
 We add some function in new version as follows⬇️⬇️
