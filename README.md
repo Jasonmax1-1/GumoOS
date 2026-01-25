@@ -1,12 +1,9 @@
-# 🚨中国（包括港澳台）用户通知
-GumoOS在你所在的国家或地区已恢复下载通道。
-
 # GumoOS Event Notice
 🎉🎉We gonna have 2026 GumoOS 4.2 launch event.🥳🥳
 
 GumoOS Event will release some new function and we will have a live on Youtube.
 
-Date&Time: July,2026
+Date&Time:July,2026
 
 # GumoOS 4 New Function
 We add some function in new version as follows⬇️⬇️
@@ -20,12 +17,4 @@ This can prevent you from accessing the wrong language version.
 # English Update Log
 1.We added a new application.
 
-2.We added “Choose your country or region”.
-
-3.We fixed “Version Number is wrong” problem.
-
-4.Some text has been modified.
-
-5.We fixed “Some text is wrong” problem.
-
-
+2.We added thanks list
