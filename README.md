@@ -14,7 +14,5 @@ This can help people who are in a low mood, it can effectively prevent the occur
 ### 2.Choose Your Country or Region:
 This can prevent you from accessing the wrong language version.
 
-# English Update Log
-1.We added a new application.
-
-2.We added thanks list
+# Update Log
+1.We added countries or regions flags in “Choose your country or region”
