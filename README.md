@@ -1,5 +1,12 @@
+# GumoOS Youtube and Tiktok Account
+Notice:This is personal account, so the name will not is "GumoOS"
+
+Youtube:https://www.youtube.com/@JaosnDeng
+
+Tiktok:www.tiktok.com/@valuetiktok1
+
 # GumoOS Event Notice
-🎉🎉We gonna have 2026 GumoOS 4.2 launch event.🥳🥳
+🎉🎉We gonna have 2026 GumoOS 5 launch event.🥳🥳
 
 GumoOS Event will release some new function and we will have a live on Youtube.
 
@@ -15,4 +22,4 @@ This can help people who are in a low mood, it can effectively prevent the occur
 This can prevent you from accessing the wrong language version.
 
 # Update Log
-1.We added countries or regions flags in “Choose your country or region”
+1.Fixed some bugs.
